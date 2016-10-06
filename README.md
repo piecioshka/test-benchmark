@@ -1,16 +1,16 @@
 # test-benchmark
 
-:ledger: Benchmarking create collections: Object, Array, Map, Set, WeakMap, WeakSet
+> :ledger: Benchmarking create collections: Object, Array, Map, Set, WeakMap, WeakSet
 
 ## Usage
 
 In terminal run:
 
 ```
-node index.js
+$ node index.js
 ```
 
-I use `benchmark` package. More info https://www.npmjs.com/package/benchmark
+I use [`benchmark`](https://www.npmjs.com/package/benchmark) package on `npm`.
 
 ## License
 
