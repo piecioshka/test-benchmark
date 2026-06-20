@@ -14,4 +14,4 @@ I use [`benchmark`](https://www.npmjs.com/package/benchmark) package on `npm`.
 
 ## License
 
-[The MIT License](https://piecioshka.mit-license.org) @ 2016
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
